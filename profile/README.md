@@ -1,11 +1,9 @@
 # dev1-sg
 
-<p><img src="https://github.com/dev1-sg/project/blob/main/artwork/manifest/web-app-manifest-512x512.png?raw=true" alt="dev1-sg logo icon" width="150"></p>
-
 ## Mission
 
 Welcome!
-dev1-sg is a devops project to define a vendor-neutral, principle-led meaning of GitOps.
+dev1-sg is a devops project to define a vendor-neutral, principle-led meaning of DevOps.
 
 This will establish a foundation for interoperability between tools, conformance, and certification through lasting programs, documents, and code.
 
@@ -23,7 +21,7 @@ This will establish a foundation for interoperability between tools, conformance
 
 We welcome anyone who would like to get involved.
 
-Be sure to review the OpenGitOps [contributing guidelines](https://github.com/dev1-sg/.github/blob/main/CONTRIBUTING.md) and [code of conduct](https://github.com/dev1-sg/.github/blob/main/CODE_OF_CONDUCT.md).
+Be sure to review the [contributing guidelines](https://github.com/dev1-sg/.github/blob/main/CONTRIBUTING.md) and [code of conduct](https://github.com/dev1-sg/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ### Security
 
