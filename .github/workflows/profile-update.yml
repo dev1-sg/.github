@@ -28,10 +28,7 @@ jobs:
 
       - name: 'sync to profile'
         run: |
-          rsync -av --delete source/ profile/
-          cd profile
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
+          rsync -av --delete --exclude='.git' --exclude='.github' source/ profile/
           git add .
           git diff-index --quiet HEAD || git commit -m "Sync from dev1-sg/project"
           git push
