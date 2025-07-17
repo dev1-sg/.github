@@ -1,6 +1,6 @@
-# Welcome to GitHub docs contributing guide <!-- omit in toc -->
+# Welcome to contributing guide
 
-Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [docs.github.com](https://docs.github.com/en) :sparkles:.
+Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [docs.github.com](https://docs.github.com/en).
 
 Read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
 
@@ -22,7 +22,7 @@ To get an overview of the project, read the [README](./README.md) file. Here are
 
 To navigate our codebase with confidence, see [the introduction to working in the docs repository](https://github.com/github/docs/blob/main/contributing/README.md) :confetti_ball:. For more information on how we write our markdown files, see "[Using Markdown and Liquid in GitHub Docs](https://docs.github.com/en/contributing/writing-for-github-docs/using-markdown-and-liquid-in-github-docs)."
 
-Check to see what [types of contributions](https://github.com/github/docs/blob/main/contributing/types-of-contributions.md) we accept before making changes. Some of them don't even require writing a single line of code :sparkles:.
+Check to see what [types of contributions](https://github.com/github/docs/blob/main/contributing/types-of-contributions.md) we accept before making changes. Some of them don't even require writing a single line of code.
 
 ### Issues
 
@@ -62,7 +62,7 @@ For more information about using a codespace for working on GitHub documentation
 
 ### Commit your update
 
-Commit the changes once you are happy with them. Don't forget to use the "[Self review checklist](https://docs.github.com/en/contributing/collaborating-on-github-docs/self-review-checklist)" to speed up the review process :zap:.
+Commit the changes once you are happy with them. Don't forget to use the "[Self review checklist](https://docs.github.com/en/contributing/collaborating-on-github-docs/self-review-checklist)" to speed up the review process.
 
 ### Pull Request
 
@@ -77,7 +77,7 @@ Once you submit your PR, a Docs team member will review your proposal. We may as
 
 ### Your PR is merged!
 
-Congratulations :tada::tada: The GitHub team thanks you :sparkles:.
+Congratulations!
 
 Once your PR is merged, your contributions will be publicly visible on the [GitHub docs](https://docs.github.com/en).
 
