@@ -8,7 +8,7 @@ We're very thankful for – and if desired happy to credit – security research
 
 To report a security issue directlly related to the dev1-sg project:
 
-- Please email the private maintainers list <dev1-sg-maintainers@lists.dev1.sg> with the details.
+- Please email the private maintainers list <antyung47@gmail.com> with the details.
 - You may, but are not required to, encrypt your email to this list using the PGP keys of dev1-sg maintainers, listed below.
 - You may choose if you want public acknowledgement of your effort and how you would like to be credited.
 
